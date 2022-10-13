@@ -23,7 +23,7 @@
         <div class="main-div">
             <form method="POST" action="#">
                 <div class="container">
-                    <label class="username">Korisnicko ime</label>
+                    <label class="username">MILAN</label>
                     <input type="text" name="username" class="form-control"  required>
                     <br>
                     <label for="password">Lozinka</label>
